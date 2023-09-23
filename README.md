@@ -26,4 +26,4 @@ Here is the dataset used - [Dataset file](https://github.com/Prajwal0105/stock-m
 - Use python to produce that data and put in Kafka clusture
 - Then we will consume that data and store it in Amazon S3
 - Crawl this data using Crawler to build a Glue catalog
-- Analyze the data using Amazon Athena
+- Analyze the data using Amazon Athena using SQL
